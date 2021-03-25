@@ -1,11 +1,16 @@
 _repo: The-Church-and-the-Census-A-Tract-for-the-Times_64877
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64877-h/images/cover.jpg
 creator:
   author:
     agent_name: Skinner, James
     gutenberg_agent_id: '53083'
     url: http://www.gutenberg.org/2009/agents/53083
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64877#The-Church-and-the-Census-A-Tract-for-the-Times
 gutenberg_issued: '2021-03-20'
 gutenberg_type: Text
 identifiers:
